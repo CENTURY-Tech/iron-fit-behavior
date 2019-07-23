@@ -1,0 +1,8 @@
+{
+  "name": "iron-fit-behavior",
+  "version": "1.2.8",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1"
+  },
+  "private": true
+}
